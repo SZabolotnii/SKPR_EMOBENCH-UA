@@ -155,7 +155,7 @@
 ---
 
 ## Подяки  
-- Авторам датасету EMOBENCH-UA.  
+- Щира подяка авторам датасету EMOBENCH-UA за надані дані: https://huggingface.co/datasets/ukr-detect/ukr-emotions-binary
 
 ---
 
